@@ -1,0 +1,7 @@
+.venv/
+pycache/
+*.pyc
+.idea/
+.vscode/
+allure-results/
+sperma.py
