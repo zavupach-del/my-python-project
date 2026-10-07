@@ -4,4 +4,4 @@ pycache/
 .idea/
 .vscode/
 allure-results/
-sperma.py
+# sperma.py
